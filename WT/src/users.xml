@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<usersinfo xmlns:tns="http://www.example.org/users" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<user>
+		<userId>1</userId>
+		<userName>Vaishnavi Yelisetti</userName>
+		<userEmail>18wh1a0567@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>2</userId>
+		<userName>Mary Pranavi Allam</userName>
+		<userEmail>18wh1a0563@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>3</userId>
+		<userName>Reddem Mahima Sree</userName>
+		<userEmail>18wh1a0585@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>4</userId>
+		<userName>Krishnaveni Mekkina</userName>
+		<userEmail>18wh1a0581@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>5</userId>
+		<userName>Nikitha Vegi</userName>
+		<userEmail>18wh1a0579@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>6</userId>
+		<userName>Harika Thota</userName>
+		<userEmail>18wh1a0576@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>7</userId>
+		<userName>A V Supriya</userName>
+		<userEmail>18wh1a0569@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>8</userId>
+		<userName>Ratna Challa</userName>
+		<userEmail>18wh1a05a1@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>9</userId>
+		<userName>Varshitha Tetali</userName>
+		<userEmail>18wh1a0570@bvrithyderabad.edu.in</userEmail>
+	</user>
+	<user>
+		<userId>10</userId>
+		<userName>Shaik Saba</userName>
+		<userEmail>18wh1a05a4@bvrithyderabad.edu.in</userEmail>
+	</user>
+	
+	
+</usersinfo>

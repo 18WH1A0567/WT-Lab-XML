@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://www.example.org/biodata" xmlns:tns="http://www.example.org/biodata" elementFormDefault="qualified">
+
+<element name="biodata">
+	<complexType>
+		<sequence>
+			<element name="studentName" type="string"></element>
+			<element name="rollNumber" type="string"></element>
+			<element name="mobileNumber" type="integer"></element>
+			<element name="dateOfBirth" type="date"></element>
+			<element name="branch" type="string"></element>
+			<element name="cgpa" type="float"></element>
+			<element name="hobbies">
+				<complexType>
+					<sequence>
+						<element name="h1" type="string"></element>
+						<element name="h2" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+			<element name="address">
+				<complexType>
+					<sequence>
+						<element name="city" type="string"></element>
+						<element name="state" type="string"></element>
+					</sequence>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

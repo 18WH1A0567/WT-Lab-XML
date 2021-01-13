@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tns:biodata xmlns:tns="http://www.example.org/biodata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/biodata biodata.xsd ">
+  <tns:studentName>Vaishnavi Yelisetti</tns:studentName>
+  <tns:rollNumber>18WH1A0567</tns:rollNumber>
+  <tns:mobileNumber>8008643287</tns:mobileNumber>
+  <tns:dateOfBirth>2000-09-20</tns:dateOfBirth>
+  <tns:branch>CSE</tns:branch>
+  <tns:cgpa>8.81</tns:cgpa>
+  <tns:hobbies>
+    <tns:h1>Photography</tns:h1>
+    <tns:h2>Reading</tns:h2>
+  </tns:hobbies>
+  <tns:address>
+    <tns:city>Hyderabad</tns:city>
+    <tns:state>Telangana</tns:state>
+  </tns:address>
+</tns:biodata>
+
